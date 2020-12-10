@@ -20,13 +20,13 @@ html, body {
   margin-top: 20px;
 }
 .nav_buttons {
-  background-color: #e1ca9b;
+  background-color: #277d7;
 }
 .nav-link {
   color: #867960
 }
 .registration_container {
-  background-color: #e1ca9b;
+  background-color: #277d7;
   margin-bottom: 20px;
 }
 
@@ -287,7 +287,7 @@ html, body {
   margin-top: 20px;
 }
 .nav_buttons {
-  background-color: #e1c99b;
+  background-color: #277d7;
 }
 .nav-link {
   font-family: Helvetica, Arial;
@@ -298,7 +298,7 @@ html, body {
 }
 /*Start of my style*/
 .background {
-  background-color: #e1c99b;
+  background-color: #277d7;
 }
 .Darba_sludinājumi {
   font-family: "Avenir Next Condensed", Helvetica, Arial;
@@ -353,7 +353,7 @@ html, body {
 .job-update .fas {
   margin-top: 5px;
   margin-right: 10px;
-  color: #e1c99b;
+  color: #277d7;
 }
 
 .job-update small {
@@ -373,7 +373,7 @@ html, body {
 
 .apply-btn {
   height: 70px;
-  background-image: linear-gradient(to right, #e1c99b, #e1c99b);
+  background-image: linear-gradient(to right, #277d7, #277d7);
   padding: 7px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -400,11 +400,11 @@ html, body {
 
 .pagelink li:hover, .active {
   color: #fff;
-  background-image: linear-gradient(to right, #e1c99b, #e1c99b);
+  background-image: linear-gradient(to right, #277d7, #277d7);
 }
 
 .jumbotron {
-  background-color: #e1c99b;
+  background-color: #277d7;
 }
 
 .form {
